@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **clipboard-landing-page-master**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **otienoyrn@gmail.com**
 
